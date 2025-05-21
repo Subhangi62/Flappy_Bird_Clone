@@ -28,7 +28,7 @@ A fun and functional **Flappy Bird clone** built using **HTML, CSS, and JavaScri
 
 This project is for learning and portfolio-building, but I'm always open to suggestions and improvements. Feel free to fork or star the repo if you find it helpful!  
 
-If you'd like to collaborate or have feedback, feel free to reach out via [jsubh0517@gmail.com] or connect on LinkedIn(linkedin.com/in/subhangi-j-031416273).
+If you'd like to collaborate or have feedback, feel free to reach out via [jsubh0517@gmail.com] or connect on LinkedIn[linkedin.com/in/subhangi-j-031416273].
 
 
 ---
